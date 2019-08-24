@@ -1,2 +1,2 @@
 # Lottie Android Example
-![Example1](screenshot/lottie-android-sample.webm)
+![Example1](screenshot/lottie-android-example.gif)
